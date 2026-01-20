@@ -1,6 +1,6 @@
-# 👋 Bonjour, je suis Oscar AS
+# 👋 Bonjour, je suis G Judicaël Oscar KAFANDO
 
-Élève ingénieur statisticien économiste à l'ENSAE de Dakar, passionné par l'intelligence artificielle et l'analyse de données. 🚀 J'adore explorer les données et développer des solutions innovantes pour des problèmes complexes.
+Élève ingénieur statisticien économiste à l'ENSAE de Dakar.
 
 ---
 
